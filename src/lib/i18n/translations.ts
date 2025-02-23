@@ -1,0 +1,66 @@
+export const translations = {
+  en: {
+    header: {
+      postAd: "Post Ad",
+      login: "Login",
+      register: "Register",
+      myAds: "My Ads",
+      settings: "Settings",
+      logout: "Logout",
+    },
+    search: {
+      placeholder: "What are you looking for?",
+      category: "Category",
+      selectLocation: "Select location",
+      searchButton: "Search",
+    },
+    categories: {
+      title: "Browse Categories",
+      items: "items",
+      vehicles: "Vehicles",
+      realEstate: "Real Estate",
+      electronics: "Electronics",
+      mobilePhones: "Mobile Phones",
+      furniture: "Furniture",
+      fashion: "Fashion",
+      jobs: "Jobs",
+      others: "Others",
+    },
+    featured: {
+      title: "Featured Listings",
+      subtitle: "Discover our top picks for you",
+    },
+  },
+  ar: {
+    header: {
+      postAd: "أضف إعلان",
+      login: "تسجيل الدخول",
+      register: "إنشاء حساب",
+      myAds: "إعلاناتي",
+      settings: "الإعدادات",
+      logout: "تسجيل الخروج",
+    },
+    search: {
+      placeholder: "عم تبحث؟",
+      category: "الفئة",
+      selectLocation: "اختر الموقع",
+      searchButton: "بحث",
+    },
+    categories: {
+      title: "تصفح الفئات",
+      items: "عنصر",
+      vehicles: "سيارات",
+      realEstate: "عقارات",
+      electronics: "إلكترونيات",
+      mobilePhones: "هواتف محمولة",
+      furniture: "أثاث",
+      fashion: "أزياء",
+      jobs: "وظائف",
+      others: "أخرى",
+    },
+    featured: {
+      title: "إعلانات مميزة",
+      subtitle: "اكتشف أفضل العروض",
+    },
+  },
+};
